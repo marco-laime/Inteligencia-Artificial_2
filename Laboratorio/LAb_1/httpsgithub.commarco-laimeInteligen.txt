@@ -1,0 +1,2 @@
+GoogleColab https://github.com/marco-laime/Inteligencia-Artificial_2
+GitLab: https://colab.research.google.com/drive/18VTTYBn-Sc_jWeirFQa1rWCd7FPevr3b?usp=sharing
